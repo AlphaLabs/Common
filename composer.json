@@ -1,0 +1,26 @@
+{
+    "name": "alphalabs/common",
+    "description": "Toolbox which let's you play with ease with primitive types and common objects",
+    "keywords": ["tools","common", "utils"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sylvain Mauduit",
+            "email": "swop@swop.io"
+        }
+    ],
+
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-0": { "": "src/" }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    }
+}
