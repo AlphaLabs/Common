@@ -16,7 +16,7 @@
     },
     "minimum-stability": "stable",
     "autoload": {
-        "psr-0": { "": "src/" }
+        "psr-0": { "AlphaLabs\\Common\\": "src/" }
     },
     "extra": {
         "branch-alias": {
