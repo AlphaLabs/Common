@@ -18,7 +18,7 @@ namespace AlphaLabs\Common\AttributeBag;
  * @package AlphaLabs\Common\AttributeBag
  *
  * @author  Sylvain Mauduit <swop@swop.io>
- * @author  Fabien Potentier <fabien@symfony.com>
+ * @author  Fabien Potencier <fabien@symfony.com>
  */
 class AttributeBag implements AttributeBagInterface, \IteratorAggregate, \Countable
 {
